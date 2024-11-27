@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auth System</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div id="auth-container">
+        <!-- Login page will be rendered here -->
+    </div>
+    <div id="app-container" style="display: none;">
+        <nav>
+            <ul>
+                <li><a href="#" data-page="systems">Systems</a></li>
+                <li><a href="#" data-page="users">Users</a></li>
+                <li><a href="#" data-page="profiles">Profiles</a></li>
+                <li class="logout"><a href="#" id="logout">Logout</a></li>
+            </ul>
+        </nav>
+
+        <main id="app">
+            <!-- Pages will be dynamically loaded here -->
+        </main>
+    </div>
+
+    <script type="module" src="/main.js"></script>
+</body>
+</html>

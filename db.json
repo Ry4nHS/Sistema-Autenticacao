@@ -1,0 +1,67 @@
+{
+  "systems": [],
+  "users": [
+    {
+      "login": {
+        "email": "gelvazio@gmail.com",
+        "password": "uHcnxHbmyLatVHvBCxrM"
+      },
+      "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndiZ2N0c3RwdGF5cnhza3dhcWxkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjg5NTM5NzgsImV4cCI6MjA0NDUyOTk3OH0.6qOP2ANbwnxHosWnupL8Wbdhl7AtpZNAOrcBZ91Hzzk"
+      },
+      "id": 1
+    },
+    {
+      "login": {
+        "email": "gelvazio@gmail.com",
+        "password": "uHcnxHbmyLatVHvBCxrM"
+      },
+      "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndiZ2N0c3RwdGF5cnhza3dhcWxkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjg5NTM5NzgsImV4cCI6MjA0NDUyOTk3OH0.6qOP2ANbwnxHosWnupL8Wbdhl7AtpZNAOrcBZ91Hzzk"
+      },
+      "id": 2
+    },
+    {
+      "login": {
+        "email": "gelvazio@gmail.com",
+        "password": "uHcnxHbmyLatVHvBCxrM"
+      },
+      "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndiZ2N0c3RwdGF5cnhza3dhcWxkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjg5NTM5NzgsImV4cCI6MjA0NDUyOTk3OH0.6qOP2ANbwnxHosWnupL8Wbdhl7AtpZNAOrcBZ91Hzzk"
+      },
+      "id": 3
+    },
+    {
+      "login": {
+        "email": "gelvazio@gmail.com",
+        "password": "uHcnxHbmyLatVHvBCxrM"
+      },
+      "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndiZ2N0c3RwdGF5cnhza3dhcWxkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjg5NTM5NzgsImV4cCI6MjA0NDUyOTk3OH0.6qOP2ANbwnxHosWnupL8Wbdhl7AtpZNAOrcBZ91Hzzk"
+      },
+      "id": 4
+    }
+  ],
+  "profiles": [
+    {
+      "codigo": 1,
+      "nome": "Admin",
+      "siscodigo": null,
+      "permissions": {
+        "index": true,
+        "update": true,
+        "insert": true,
+        "delete": true
+      },
+      "id": 1
+    }
+  ]
+}
